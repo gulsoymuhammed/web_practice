@@ -1,0 +1,10 @@
+#style{
+    background-color:blue;
+    width: 300px;
+    border: 15px solid red;
+
+    /*inner space*/
+    padding:50px;
+    /*external space*/
+    margin:20px;
+}

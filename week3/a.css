@@ -1,0 +1,87 @@
+
+#topLayer{
+
+    background-color:yellow;
+    float:left;
+    width: 1000;
+    border:3px;
+    padding:10px;
+    text-align: center; 
+    
+    margin-left: 100px;
+    margin-right: 100px;
+
+
+}
+
+#leftLayer{
+    background-color:blue;
+    width: 250px;
+    border: 1px solid black;
+    padding-left:5px;
+    padding-right:5px;
+    margin-left: 100px;
+    margin-right: 5px;
+    margin-top: 10px;
+    float:left;
+    height: 600px;
+    margin-bottom:5px;
+
+}
+
+#middleLayer{
+    background-color:pink;
+    width: 386;
+    border: 1px solid black;
+    padding-left:5px;
+    padding-right:5px;
+    margin-left:5px;
+   
+    margin-right:5px;
+    margin-top: 10px;
+
+    float:left;
+    height: 600px;
+    margin-bottom:5px;
+
+
+}
+
+
+#rightLayer{
+    background-color:#81C1F9;
+    width: 330;
+    border: 1px solid black;
+
+    margin-top: 10px;
+    padding-left:5px;
+    padding-right:5px;
+    margin-left:5px;
+    margin-bottom:5px;
+    margin-right:100px;
+    float:left;
+    height: 600px;
+
+
+}
+
+
+#bottomLayer{
+    background-color:orange;
+    float:left;
+    width: 1000;
+    border:3px;
+    padding:10px;
+    text-align: center; 
+    
+    margin-left: 50px;
+    margin-right: 50px;
+}
+
+.clear{
+    clear:both;
+}
+
+
+  
+    
